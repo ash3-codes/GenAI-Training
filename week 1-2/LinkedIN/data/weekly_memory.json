@@ -1,0 +1,92 @@
+[
+  {
+    "week": "2026-W05",
+    "topics": [
+      "python",
+      "data processing",
+      "script optimization"
+    ],
+    "summary": "This week, I focused on improving the efficiency of a critical python script to reduce processing time by 30%. python",
+    "timestamp": "2026-01-26T19:47:08.911296"
+  },
+  {
+    "week": "2026-W05",
+    "topics": [
+      "csv"
+    ],
+    "summary": "This week, I optimized a python script to process csv data more efficiently. csv",
+    "timestamp": "2026-01-26T19:54:32.538213"
+  },
+  {
+    "week": "2026-W05",
+    "topics": [
+      "numpy"
+    ],
+    "summary": "This week, I applied my Python and data processing skills to master numpy and boost performance in my data-intensive applications. numpy",
+    "timestamp": "2026-01-26T19:55:15.276275"
+  },
+  {
+    "week": "2026-W05",
+    "topics": [
+      "graduation"
+    ],
+    "summary": "As I celebrate this milestone, I reflect on the technical skills that have helped me get here. graduation ",
+    "timestamp": "2026-01-27T05:55:53.719418"
+  },
+  {
+    "week": "2026-W05",
+    "topics": [
+      "graduation"
+    ],
+    "summary": "As I celebrate graduation, I'm reflecting on the technical skills that have helped me get here and how they've shaped my journey. graduation ",
+    "timestamp": "2026-01-27T11:31:19.907466"
+  },
+  {
+    "week": "2026-W05",
+    "topics": [
+      "object oriented programming in python"
+    ],
+    "summary": "As I continue to deepen my understanding of Python, I'm excited to apply object-oriented programming techniques to further enhance my coding skills. object oriented programming in python",
+    "timestamp": "2026-01-27T12:31:42.911603"
+  },
+  {
+    "week": "2026-W05",
+    "topics": [
+      "internship at a MNC"
+    ],
+    "summary": "As I dive into this exciting new chapter, I'm leveraging my Python and data processing skills to make a meaningful impact. internship at a mnc",
+    "timestamp": "2026-01-27T12:32:56.239814"
+  },
+  {
+    "week": "2026-W05",
+    "topics": [
+      "genAI bootcamp"
+    ],
+    "summary": "As I embark on a 30-day genAI bootcamp, I'm excited to apply my Python and programming skills to the exciting world of AI and ML. i have started a 30 day genAI bootcamp generate the whole 30 day plan in 30 post",
+    "timestamp": "2026-01-28T11:45:30.869454"
+  },
+  {
+    "week": "2026-W05",
+    "topics": [
+      "my first job"
+    ],
+    "summary": "As I embark on my first job, I reflect on the journey that led me here, from internship to now. my first job",
+    "timestamp": "2026-01-28T11:50:52.814905"
+  },
+  {
+    "week": "2026-W05",
+    "topics": [
+      "Agile Bootcamp"
+    ],
+    "summary": "As I conclude my Agile Bootcamp journey, I'm excited to apply the new skills and methodologies to drive innovation in my first job. Agile Bootcamp",
+    "timestamp": "2026-01-29T12:05:43.022443"
+  },
+  {
+    "week": "2026-W05",
+    "topics": [
+      "DevOPS"
+    ],
+    "summary": "As I dive into DevOPS, I'm reflecting on how my Python and genAI skills can be applied to streamline processes and improve efficiency. DevOPS",
+    "timestamp": "2026-01-29T15:23:21.059796"
+  }
+]

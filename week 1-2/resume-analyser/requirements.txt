@@ -1,0 +1,6 @@
+langchain==1.2.6
+langchain-openai
+langchain-community
+pydantic
+python-dotenv
+pypdf

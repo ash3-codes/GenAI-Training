@@ -1,0 +1,1 @@
+Progress story: python, data processing, script optimization. Then moved to csv. Then moved to numpy. Then moved to graduation. Then moved to graduation. Then moved to object oriented programming in python. Then moved to internship at a MNC. Then moved to genAI bootcamp. Then moved to my first job. Then moved to Agile Bootcamp. Then moved to DevOPS.
