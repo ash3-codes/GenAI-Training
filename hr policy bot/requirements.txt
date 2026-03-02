@@ -1,0 +1,27 @@
+# Embeddings
+sentence-transformers>=2.6.0
+tiktoken>=0.7.0
+
+# PDF Processing
+pdfplumber>=0.10.0
+pypdf>=4.0.0
+
+# NLP / Semantic chunking
+spacy>=3.7.0
+nltk>=3.8.0
+
+# Streamlit UI
+streamlit>=1.35.0
+
+# Security & Utils
+python-dotenv>=1.0.0
+pydantic>=2.7.0
+loguru>=0.7.2
+
+# Optional reranking
+transformers>=4.41.0
+torch>=2.2.0
+
+# Optional OCR fallback
+pytesseract>=0.3.10
+Pillow>=10.0.0
