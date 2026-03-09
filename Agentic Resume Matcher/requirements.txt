@@ -1,0 +1,61 @@
+# ============================================================
+#  Agentic Resume Matcher — Requirements
+#  Already installed in your llm conda env (verified).
+#  Two NEW installs needed — marked below.
+# ============================================================
+
+# Core LLM & Orchestration
+langchain==1.2.10
+langchain-openai==1.1.10
+langchain-community==0.4.1
+langchain-core==1.2.16
+langgraph==1.0.10
+langgraph-checkpoint==4.0.1
+langsmith==0.7.9
+openai==2.24.0
+
+# Vector DB
+qdrant-client==1.17.0
+
+# Data validation
+pydantic==2.12.5
+pydantic-settings==2.13.1
+
+# Document loading
+pypdf==6.7.5
+pdfplumber==0.11.9
+python-docx==1.2.0
+
+# Reranking (local CrossEncoder — no API cost)
+sentence-transformers==5.2.3
+torch==2.10.0
+transformers==5.2.0
+
+# ML utilities
+scikit-learn==1.8.0
+numpy==2.4.2
+
+# Config & env
+python-dotenv==1.2.2
+pyyaml==6.0.3
+
+# Retry logic
+tenacity==9.1.4
+
+# Logging
+python-json-logger==4.0.0
+
+# Web UI
+streamlit==1.54.0
+
+# Tokenization
+tiktoken==0.12.0
+
+# ── NEW INSTALLS NEEDED ───────────────────────────────────────
+# Run: pip install rank-bm25 passlib[bcrypt]
+
+# BM25 retrieval (NOT yet installed)
+rank-bm25>=0.2.2
+
+# Auth hashing (NOT yet installed)
+passlib[bcrypt]>=1.7.4
