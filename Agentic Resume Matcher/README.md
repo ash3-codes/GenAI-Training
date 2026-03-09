@@ -184,12 +184,12 @@ cp .env.example .env
 
 ```env
 # Azure OpenAI
-ENDPOINT=https://<your-resource>.openai.azure.com/
-AZURE_OPENAI_API_KEY=<your-key>
-DEPLOYMENT_NAME=gpt-4o
-DEPLOYMENT_NAME_EMBEDDING=text-embedding-3-small
-API_VERSION=2024-02-01
-API_VERSION_EMBEDDING=2024-02-01
+ENDPOINT=
+AZURE_OPENAI_API_KEY=
+DEPLOYMENT_NAME=
+DEPLOYMENT_NAME_EMBEDDING=
+API_VERSION=
+API_VERSION_EMBEDDING=
 
 # Qdrant Cloud
 QDARNT_ENDPOINT=https://<your-cluster>.qdrant.io
