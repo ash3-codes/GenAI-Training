@@ -1,0 +1,31 @@
+# LangChain Integration
+langchain>=0.1.0
+langchain-community>=0.0.38
+langchain-core>=0.1.52
+
+# LLM & Azure OpenAI
+langchain-openai>=0.1.0
+openai>=1.30.0
+
+# Vector Database
+qdrant-client>=1.8.0
+
+# PDF Processing
+pypdf>=4.0.0
+
+# Text Processing / Utilities
+numpy>=1.26.0
+scikit-learn>=1.4.0
+
+# Web UI
+streamlit>=1.35.0
+
+# Environment Variables
+python-dotenv>=1.0.0
+
+# Groq Integration
+groq==0.37.1
+langchain-groq>=0.1.0
+
+# Validation
+pydantic>=2.6,<3
